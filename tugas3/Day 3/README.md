@@ -1,6 +1,20 @@
-#akses ke ufw
-
+## akses ke ufw
 ![akses ufw](akses%20ufw.png)
 
+## proses ufw allow
+![prosess ufw allow](prosess ufw allow.png)
 
-https://github.com/naufal2602/devops26-dumbways-amri-tugas/blob/4a60d035f235b2ca102eac3064f565ded29e3320/tugas3/Day%203/akses%20ufw.png
+## akses use publickey
+![akses use publickey](akses%20use%20publickey.png)
+
+## cat and grep
+![grep](grep.png)
+
+## htop
+![htop](htop.png)
+
+## nano
+![nano](nano.png)
+
+## terhubung ke intminal
+![proses terhubung ke terminal](prosess%20terhubung%20ke%20terminal.png)
