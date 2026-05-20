@@ -1,6 +1,6 @@
 ## Request Flow Architecture
 
-<img width="857" height="693" alt="image" src="[https://github.com/user-attachments/assets/c03f7bc6-7d45-49a2-a764-9ef543aa0fde](https://github.com/naufal2602/devops26-dumbways-amri-tugas/blob/b1249b6a1f3a8a2c064aad73370d5f7e610e32de/tugas6/DAY6/reverse%20proxy.png)" />
+<img width="857" height="693" alt="image" src="![Reverse Proxy](DAY6/reverse%20proxy.png) />
 
 1. Client mengirimkan request.
 2. Request diterima oleh **Reverse Proxy Server**.
