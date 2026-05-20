@@ -23,23 +23,29 @@ git push          # kirim ke server (misalnya GitHub)
 ```
 
 ## proses ufw allow
-![branc master and development](branch%20master%20and%20development.png)
+![branc master and development](day%204/branch%20master%20and%20development.png)
 
 
 ## membuat branch
-![embuat branch](embuat%20branch.png)
+![embuat branch](day%204/embuat%20branch.png)
 
 ## git add
-![git add](git%20add.png)
+![git add](day%204/git%20add.png)
 
 ## git commit
-![git commit](git%20commit.png)
+![git commit](day%204/git%20commit.png)
 
-## membuat branch
-![embuat branch](embuat%20branch.png)
+## masuk ke repository sendiri
+![masuk ke repository sendiri](day%204/masuk%20ke%20repository%20sendiri.png)
 
-## membuat branch
-![embuat branch](embuat%20branch.png)
+## membuat perubahan github
+![membuat perubahan github](day%204/perubahan%20github.png)
+
+## membuat file di github
+![membuat file github](day%204/membuat%20file%20di%20github.png)
+
+
+
 
 
 
